@@ -2,7 +2,7 @@ language.code=tr-TR
 language=Türkçe
 staxel.tileObject.airship.RopeFenceCorner.description=
 //TODO Translate [Reference] 'Rope Fence'
-staxel.tileObject.airship.RopeFenceCorner.name=
+staxel.tileObject.airship.RopeFenceCorner.name=Halatlı Çit
 staxel.tileObject.airship.RopeFenceStraight.description=
 //TODO Translate [Reference] 'Rope Fence'
 staxel.tileObject.airship.RopeFenceStraight.name=
