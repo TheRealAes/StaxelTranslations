@@ -53,7 +53,7 @@ staxel.village.dialogue.Barkeep.line:10002900=Sözüm ona ^c:1486b0;{0-quest_giv
 //[Reference] 'Seems things aren't perfect for ^c:1486b0;{0-quest_giver_1}^c:pop; either.'
 staxel.village.dialogue.Barkeep.line:10003000=İşler ^c:1486b0;{0-quest_giver_1}^c:pop; için de çok iyi gitmiyor sanki.
 //[Reference] '^c:1486b0;{0-quest_giver_2}^c:pop; might appreciate some help too.'
-staxel.village.dialogue.Barkeep.line:10003100=Biraz yardım ^c:1486b0;{0-quest_giver_2}^c:pop;'yi de memnun edebilir.
+staxel.village.dialogue.Barkeep.line:10003100=Biraz yardım ^c:1486b0;{0-quest_giver_2}^c:pop; için de memnun edici olabilir.
 //[Reference] 'What will you have?'
 staxel.village.dialogue.Barkeep.line:10003200=Ne içeceksin?
 //[Reference] 'A Mug o' Sap! ({0-currency}{1-sap})'
@@ -83,52 +83,52 @@ staxel.village.dialogue.Barkeep.line:10005500=Sana ne diyeceğim, benim için bi
 //[Reference] 'Nothing major or anything...'
 staxel.village.dialogue.Barkeep.line:10005600=Büyük bir şey değil...
 //[Reference] 'Just hand that over to ^c:1486b0;{0-shop_name}^c:pop; at the ^c:1486b0;general store^c:pop; and he'll know what I need.'
-staxel.village.dialogue.Barkeep.line:10005700=Yanlızca ^c:1486b0;{0-shop_name}^c:pop; daki ^c:1486b0;genel mağazaya^c:pop; git ve neye ihtiyacım olduğunu bilip sana gerekeni verecek.
+staxel.village.dialogue.Barkeep.line:10005700=Bunu ^c:1486b0;Bakkal^c:pop;daki ^c:1486b0;{0-shop_name}^c:pop;'e götür, neye ihtiyacım olacağını bilecektir.
 //[Reference] 'It's an order I've been waiting on for just under a week.'
-staxel.village.dialogue.Barkeep.line:10005800=Yaklaşık 1 haftadır onu bekliyorum.
+staxel.village.dialogue.Barkeep.line:10005800=Neredeyse bir haftadır beklediğim bir sipariş. 
 //[Reference] 'As you can probably see, I've just been too busy to leave the place unattended...'
-staxel.village.dialogue.Barkeep.line:10005900=Görebileceğin gibi çok meşgulüm...
+staxel.village.dialogue.Barkeep.line:10005900=Görebileceğin gibi, burayı başıboş bırakamayacak kadar meşgulüm...
 //[Reference] 'Still don't have my order eh?'
-staxel.village.dialogue.Barkeep.line:10006000=Hala almadınmı?
+staxel.village.dialogue.Barkeep.line:10006000=Siparişimi hala almadın ha?
 //TODO Translate [Reference] '^c:1486b0;{0-shop_name}^c:pop; has been holding on to it for me for almost a week.'
-staxel.village.dialogue.Barkeep.line:10006100=
+staxel.village.dialogue.Barkeep.line:10006100=^c:1486b0;{0-shop_name}^c:pop; onu benim için neredeyse bir haftadır elinde tutuyor.
 //TODO Translate [Reference] 'Go fetch it for me as soon as you can!'
-staxel.village.dialogue.Barkeep.line:10006200=
+staxel.village.dialogue.Barkeep.line:10006200=Benim için gidip onu en kısa sürede al!
 //TODO Translate [Reference] 'Ah! This overpowering aroma!'
-staxel.village.dialogue.Barkeep.line:10006300=
+staxel.village.dialogue.Barkeep.line:10006300=Ah, bu kuvvetli aroma!
 //TODO Translate [Reference] 'You have my parcel!'
-staxel.village.dialogue.Barkeep.line:10006400=
+staxel.village.dialogue.Barkeep.line:10006400=Kolimi almışsın!
 //TODO Translate [Reference] 'I can't express just how much I've been looking forward to this!'
-staxel.village.dialogue.Barkeep.line:10006500=
+staxel.village.dialogue.Barkeep.line:10006500=Bunu iple çekiyordum, anlatamam!
 //TODO Translate [Reference] 'The entrancing fragrance... the incomparable flavours...'
-staxel.village.dialogue.Barkeep.line:10006600=
+staxel.village.dialogue.Barkeep.line:10006600=Bu büyüleyici koku... bu karşılaştırılamaz tatlar...
 //TODO Translate [Reference] 'Hm? You want to know what's in the package?'
-staxel.village.dialogue.Barkeep.line:10006700=
+staxel.village.dialogue.Barkeep.line:10006700=Hm? pakette ne olduğunu mu merak ediyorsun?
 //TODO Translate [Reference] 'It's a special type of fermented fish!'
-staxel.village.dialogue.Barkeep.line:10006800=
+staxel.village.dialogue.Barkeep.line:10006800=Özel bir fermente balık türü!
 //TODO Translate [Reference] 'There's only a few islands out there that produce it so it's pretty hard to come by!'
-staxel.village.dialogue.Barkeep.line:10006900=
+staxel.village.dialogue.Barkeep.line:10006900=Bunu üreten çok az ada kaldı yani böyle bir şeyle karşılaşmak çok zor!
 //TODO Translate [Reference] 'I like to tease ^c:1486b0;{0-shop_name}^c:pop; a little by having it sent to the store first...'
-staxel.village.dialogue.Barkeep.line:10007000=
+staxel.village.dialogue.Barkeep.line:10007000=Önce bakkala gönderterek ^c:14m?86b0;{0-shop_name}^c:pop;'i kızdırmayı seviyorum...
 //TODO Translate [Reference] 'But enough about that! I imagine you're eager to get back to your pet!'
-staxel.village.dialogue.Barkeep.line:10007100=
+staxel.village.dialogue.Barkeep.line:10007100=Ama bu konuyu kapatalım! Evcil hayvanın hakkında konuşmak istediğini düşünüyorum!
 //TODO Translate [Reference] 'Hm? Oh! I didn't tell you?'
-staxel.village.dialogue.Barkeep.line:10007200=
+staxel.village.dialogue.Barkeep.line:10007200=Hm? Ah! Sana söylemedim mi?
 //TODO Translate [Reference] 'I've already sent your pet over to ^c:1486b0;{0-tut_name}^c:pop;!'
-staxel.village.dialogue.Barkeep.line:10007300=
+staxel.village.dialogue.Barkeep.line:10007300=Evcil hayvanını çoktan ^c:1486b0;{0-tut_name}^c:pop;'e gönderdim!
 //TODO Translate [Reference] 'That there is just a letter with some advice for ^c:1486b0;{0-tut_name}^c:pop;.'
-staxel.village.dialogue.Barkeep.line:10007400=
+staxel.village.dialogue.Barkeep.line:10007400=Bu içinde sadece ^c:1486b0;{0-tut_name}^c:pop; için birkaç tavsiye olan bir mektup.
 //TODO Translate [Reference] 'Make sure you give it to her for me!'
-staxel.village.dialogue.Barkeep.line:10007500=
+staxel.village.dialogue.Barkeep.line:10007500=Benim için bunu ona verdiğine emin ol!
 //TODO Translate [Reference] 'Don't worry about the sap she sent you for - I've already dealt with that.'
-staxel.village.dialogue.Barkeep.line:10007600=
+staxel.village.dialogue.Barkeep.line:10007600=Seni buraya gönderttiği Bitki Özü için endişelenme - onu çoktan halletim.
 //[Reference] 'You should hurry on back to meet your new companion!'
-staxel.village.dialogue.Barkeep.line:10007700=1 haftadır elinde...
+staxel.village.dialogue.Barkeep.line:10007700=Yeni ahbabınla tanışmak için geri dönerken acele etmelisin!
 //[Reference] 'Remember - you're welcome here any time!'
-staxel.village.dialogue.Barkeep.line:10007800=Unutma - herzaman gelebilirsn!
+staxel.village.dialogue.Barkeep.line:10007800=Unutma - kapım sana her zaman açık!
 //[Reference] 'It usually gets a bit livelier in the evenings so that might be a nice time to stop by!'
-staxel.village.dialogue.Barkeep.line:10007900=Durmak için güzel bir zaman olabilir, bu yüzden genellikle akşamları biraz canlı olur!
+staxel.village.dialogue.Barkeep.line:10007900=Burası genellikle akşamları daha canlı olur yani akşamları buraya uğramak için güzel bir zaman olabilir!
 //[Reference] 'You probably shouldn't stay out too late though!'
-staxel.village.dialogue.Barkeep.line:10008000=Fakat genelde çok geçe kalmamalısın!
+staxel.village.dialogue.Barkeep.line:10008000=Gerçi çok geçe kalmamalısın!
 //[Reference] 'It's good to get back to your bed and sleep the night away.'
-staxel.village.dialogue.Barkeep.line:10008100=Yatağına gidip uyuman en iyisi
+staxel.village.dialogue.Barkeep.line:10008100=Geceyi uyuyarak geçirmek en iyisi.
