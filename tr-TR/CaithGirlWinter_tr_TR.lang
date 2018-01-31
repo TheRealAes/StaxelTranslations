@@ -1,8 +1,8 @@
 language.code=tr-TR
 language=Türkçe
 //[Reference] 'Having fur is such a blessing mya!'
-staxel.village.dialogue.seasonal.CaithGirlWinter.line:10000100=Kürke sahip olmak çok güzel miyav!
+staxel.village.dialogue.seasonal.CaithGirlWinter.line:10000100=Kürke sahip olmak büyük nimet miyav!
 //[Reference] 'I don't suffer from the cold as much as everyone else!'
-staxel.village.dialogue.seasonal.CaithGirlWinter.line:10000200=Herkesden daha az soğuğu hissediyorum!:
+staxel.village.dialogue.seasonal.CaithGirlWinter.line:10000200=Soğuğun derdini diğer insanlar kadar çekmiyorum! 
 //[Reference] 'I've seen their envious looks myahaha!'
-staxel.village.dialogue.seasonal.CaithGirlWinter.line:10000300=Onlar çok gülünç davranıyor miyav!
+staxel.village.dialogue.seasonal.CaithGirlWinter.line:10000300=Onların gıptalı bakışlarını gördüm, miyahahah!
