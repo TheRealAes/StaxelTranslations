@@ -1,10 +1,10 @@
 language.code=tr-TR
 language=Türkçe
 //[Reference] 'Mmmya?'
-staxel.village.dialogue.Caithgirl.line:10000100=Miyav?
+staxel.village.dialogue.Caithgirl.line:10000100=Mmmiyav?
 //[Reference] 'Do Caiths always end sentences with mya?'
-staxel.village.dialogue.Caithgirl.line:10000200=Caith herzaman miyavlayarak mı cümleyi bitirir?
+staxel.village.dialogue.Caithgirl.line:10000200=Kedigiller her zaman cümlelerini miyav'la mı bitirirler?
 //[Reference] 'N-no! Just sometimes...'
-staxel.village.dialogue.Caithgirl.line:10000300=Hayır! Sadece bazen...
+staxel.village.dialogue.Caithgirl.line:10000300=H-Hayır! Sadece bazen...
 //[Reference] '...m-mya...'
-staxel.village.dialogue.Caithgirl.line:10000400=...miyav...
+staxel.village.dialogue.Caithgirl.line:10000400=... M-miyav...
